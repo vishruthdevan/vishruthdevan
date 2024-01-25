@@ -32,8 +32,8 @@
 
 ## 📈 GitHub Stats 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishruthdevan&theme=onedark" alt="vishruthdevan" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishruthdevan&show_icons=true&locale=en&theme=onedark" alt="vishruthdevan" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishruthdevan&show_icons=true&locale=en&layout=compact&theme=onedark" alt="vishruthdevan" /></p>
+<p><img align="center" src="https://github-readme-stats-vishruth.vercel.app/api?username=vishruthdevan&show_icons=true&locale=en&theme=onedark" alt="vishruthdevan" /></p>
+<p><img align="center" src="https://github-readme-stats-vishruth.vercel.app/api/top-langs?username=vishruthdevan&show_icons=true&locale=en&layout=compact&theme=onedark" alt="vishruthdevan" /></p>
 <br>
 
 ## 🛠️ Languages and Tools:
