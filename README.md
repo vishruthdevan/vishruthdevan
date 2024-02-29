@@ -12,7 +12,7 @@
 </pre>
 </div>
 
-<h4 align="center">I'm a Junior at Vellore Institute of Technology pursuing B.Tech. in CSE. I do Backend Web Development and ML.</h4>
+<h4 align="center">I'm a Senior at Vellore Institute of Technology pursuing B.Tech. in CSE. I do Backend Web Development and ML.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishruthdevan&label=Profile%20views&color=434957&style=for-the-badge" alt="vishruthdevan" /> </p>
 <br>
