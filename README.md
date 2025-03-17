@@ -1,14 +1,14 @@
 <div style="text-align: center; font-size: 10px">
 
 <pre style="display: inline-block; text-align: left;">
-                                                                                                             
+
 ██╗   ██╗██╗███████╗██╗  ██╗██████╗ ██╗   ██╗████████╗██╗  ██╗    ██████╗ ███████╗██╗   ██╗ █████╗ ███╗   ██╗
 ██║   ██║██║██╔════╝██║  ██║██╔══██╗██║   ██║╚══██╔══╝██║  ██║    ██╔══██╗██╔════╝██║   ██║██╔══██╗████╗  ██║
 ██║   ██║██║███████╗███████║██████╔╝██║   ██║   ██║   ███████║    ██║  ██║█████╗  ██║   ██║███████║██╔██╗ ██║
 ╚██╗ ██╔╝██║╚════██║██╔══██║██╔══██╗██║   ██║   ██║   ██╔══██║    ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══██║██║╚██╗██║
  ╚████╔╝ ██║███████║██║  ██║██║  ██║╚██████╔╝   ██║   ██║  ██║    ██████╔╝███████╗ ╚████╔╝ ██║  ██║██║ ╚████║
   ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝
-                                                                                                             
+
 </pre>
 </div>
 
@@ -17,7 +17,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishruthdevan&label=Profile%20views&color=434957&style=for-the-badge" alt="vishruthdevan" /> </p>
 <br>
 
-## 🔗 Connect with me:
+## 🔗 Connect with me
+
 <a href="https://vishruthdevan.me" targer="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="vishruthdevan.me" height="30" width="40">
 <a href="mailto:vishruthdevan@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="vishruthdevan@gmail.com" height="30" width="40" /></a>
 <a href="https://twitter.com/vishruthdevan" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="vishruthdevan" height="30" width="40" /></a>
@@ -30,13 +31,15 @@
 </p>
 <br>
 
-## 📈 GitHub Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishruthdevan&theme=onedark" alt="vishruthdevan" /></p>
+## 📈 GitHub Stats
+
+<p><img align="center" src="https://streak-stats.demolab.com/?user=vishruthdevan&theme=onedark" alt="vishruthdevan" /></p>
 <p><img align="center" src="https://github-readme-stats-vishruth.vercel.app/api?username=vishruthdevan&show_icons=true&locale=en&theme=onedark" alt="vishruthdevan" /></p>
 <p><img align="center" src="https://github-readme-stats-vishruth.vercel.app/api/top-langs?username=vishruthdevan&show_icons=true&locale=en&layout=compact&theme=onedark" alt="vishruthdevan" /></p>
 <br>
 
-## 🛠️ Languages, Tools and Certifications:
+## 🛠️ Languages, Tools and Certifications
+
 - Languages: Python, JavaScript, TypeScript, HTML, CSS, Rust, Java, C/C++, SQL, R  
 - Frameworks: Django, Flask, FastAPI, Express.js, React, Tensorflow  
 - DevOps: Git, Docker, Azure, AWS, GCP  
