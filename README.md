@@ -1,6 +1,6 @@
 <div style="text-align: center; font-size: 10px">
 
-<pre style="display: inline-block; text-align: left;">
+<pre style="display: inline-block; text-align: center;">
 
 ██╗   ██╗██╗███████╗██╗  ██╗██████╗ ██╗   ██╗████████╗██╗  ██╗    ██████╗ ███████╗██╗   ██╗ █████╗ ███╗   ██╗
 ██║   ██║██║██╔════╝██║  ██║██╔══██╗██║   ██║╚══██╔══╝██║  ██║    ██╔══██╗██╔════╝██║   ██║██╔══██╗████╗  ██║
@@ -28,6 +28,7 @@
 <a href="https://open.spotify.com/user/313yqeaqaxr7syyrw37botpboary?si=78f4de6aa08747b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Spotify.svg" alt="Vishruth" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/760854840027906068" target="blank"><img align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg" alt="vishruthdevan" height="30" width="40" /></a>
 <a href="https://kaggle.com/vishruthdevan" target="blank"><img align="center" src="https://www.svgrepo.com/show/349422/kaggle.svg" alt="vishruthdevan" height="30" width="40" /></a>
+
 </p>
 <br>
 
@@ -40,7 +41,7 @@
 
 ## 🛠️ Languages, Tools and Certifications
 
-- Languages: Python, JavaScript, TypeScript, HTML, CSS, Rust, Java, C/C++, SQL, R  
-- Frameworks: Django, Flask, FastAPI, Express.js, React, Tensorflow  
-- DevOps: Git, Docker, Azure, AWS, GCP  
+- Languages: Python, JavaScript, TypeScript, HTML, CSS, Rust, Java, C/C++, SQL, R
+- Frameworks: Django, Flask, FastAPI, Express.js, React, Tensorflow
+- DevOps: Git, Docker, Azure, AWS, GCP
 - Certifications: AWS Certified Solutions Architect
