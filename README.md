@@ -19,7 +19,7 @@
 
 ## 🔗 Connect with me
 
-<a href="https://vishruthdevan.me" targer="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="vishruthdevan.me" height="30" width="40">
+<a href="https://vishruth.dev" targer="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="vishruthdevan.me" height="30" width="40">
 <a href="mailto:vishruthdevan@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="vishruthdevan@gmail.com" height="30" width="40" /></a>
 <a href="https://twitter.com/vishruthdevan" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="vishruthdevan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishruthdevan" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="vishruthdevan" height="30" width="40" /></a>
